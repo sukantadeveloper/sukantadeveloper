@@ -36,9 +36,9 @@
 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sukantad&theme=dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sukantad&theme=dark" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sukantad&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sukantadeveloper&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sukantadeveloper&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sukantadeveloper&theme=vue" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -46,7 +46,7 @@
 <br>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/sukantad/count.svg" />
+  <img src="https://profile-counter.glitch.me/sukantadeveloper/count.svg" />
 </h3>
 <br/>
 
