@@ -7,7 +7,7 @@
  - 🌱 I’m a  *MERN Stack* developer
 - 👯 I’m looking for a job
 - 🌱 I’m currently learning various new technologies.
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://sukantadeveloper.in)**
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://sukantadeveloper.vercel.app)**
 <!--  - 📫 How to reach me *ghoshsu4@gmail.com* -->
 - 💬 Ask me about anything, I am happy to help;
 
